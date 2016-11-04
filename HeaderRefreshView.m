@@ -1,7 +1,7 @@
 //
 //  HeaderRefreshView.m
 //
-//  Created by vera on 16/10/10.
+//  Created by lin on 16/10/10.
 //  Copyright © 2016年 林理刚 All rights reserved.
 //
 

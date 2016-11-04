@@ -1,9 +1,8 @@
 //
 //  HeaderRefreshView.h
-//  03-自定义刷新控件的思路
 //
-//  Created by vera on 16/9/1.
-//  Copyright © 2016年 deli. All rights reserved.
+//  Created by vera on 16/10/10.
+//  Copyright © 2016年 林理刚. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
